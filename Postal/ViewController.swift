@@ -5,6 +5,7 @@
 //  Created by Sergio Jordan Queipo on 27/11/14.
 //  Copyright (c) 2014 Sergio Jordan Queipo. All rights reserved.
 //
+// Aprendiendo a programar en Swift
 
 import UIKit
 
